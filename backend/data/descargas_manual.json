@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1762976819379,
+    "origen": "MANUAL",
+    "Fecha": "2025-11-12",
+    "Litros": 150.0,
+    "TipoDescarga": "LITROS",
+    "Encargado": "Sebastian",
+    "Dispositivo": "Dispositivo 1"
+  },
+  {
+    "id": 1762977559092,
+    "origen": "MANUAL",
+    "Fecha": "2025-11-10",
+    "Litros": 150.0,
+    "TipoDescarga": "Filtros",
+    "Encargado": "Manuel",
+    "Dispositivo": "Dispositivo 2"
+  },
+  {
+    "id": 1762977594056,
+    "origen": "MANUAL",
+    "Fecha": "2025-11-12",
+    "Litros": 510.0,
+    "TipoDescarga": "Losa",
+    "Encargado": "Moria",
+    "Dispositivo": "Dispositivo 3"
+  }
+]
