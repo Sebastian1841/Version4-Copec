@@ -25,5 +25,14 @@
     "TipoDescarga": "Losa",
     "Encargado": "Moria",
     "Dispositivo": "Dispositivo 3"
+  },
+  {
+    "id": 1763133304968,
+    "origen": "MANUAL",
+    "Fecha": "2025-11-13",
+    "Litros": 150.0,
+    "TipoDescarga": "Manualidad",
+    "Encargado": "Jose",
+    "Dispositivo": "Dispositivo 2"
   }
 ]
